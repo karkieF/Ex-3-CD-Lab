@@ -26,7 +26,7 @@ To write a yacc program to recognize a valid arithmetic expression that uses ope
 # PROGRAM
 ```python
 %{
-#include "exp3cd_0117.tab.h"
+#include "y.tab.h"
 #include <stdio.h>
 %}
 
